@@ -74,7 +74,7 @@ class AppTheme {
           color: secondaryTextColor,
         ),
       ),
-      cardTheme: const CardTheme(
+      cardTheme: const CardThemeData(
         color: backgroundColor,
         elevation: 2,
         shape: RoundedRectangleBorder(
